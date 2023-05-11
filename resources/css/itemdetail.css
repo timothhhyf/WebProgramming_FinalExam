@@ -1,0 +1,21 @@
+#item-detail{
+    margin: auto auto auto auto;
+    max-width: 715px;
+}
+
+#name-img h3{
+    text-decoration: underline;
+    margin: 0 0 20px 0;
+    text-align: center;
+}
+
+#img-info{
+    display: flex;
+    flex: row;
+    gap: 20px;
+    align-items: center;
+}
+
+#detailinfo{
+    overflow-wrap: break-word;
+}
